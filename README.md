@@ -72,7 +72,19 @@ The API predicts gender based on historical data and returns a probability score
 
 ## 📸 Screenshots
 
-<!-- (Add your project screenshots here) -->
+## 📸 Screenshots
+
+<p align="center">
+  <img src="./screenshots/ScreenShot Tool -20260323171059.png" width="600"/>
+</p>
+
+<p align="center">
+  <img src="./screenshots/ScreenShot Tool -20260323171231.png" width="600"/>
+</p>
+
+<p align="center">
+  <img src="./screenshots/ScreenShot Tool -20260323171301.png" width="600"/>
+</p>
 
 ## 📌 Future Improvements
 
