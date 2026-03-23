@@ -70,7 +70,6 @@ The app sends a GET request to the Genderize API and displays the response.
 
 The API predicts gender based on historical data and returns a probability score indicating confidence. :contentReference[oaicite:0]{index=0}
 
-## 📸 Screenshots
 
 ## 📸 Screenshots
 
