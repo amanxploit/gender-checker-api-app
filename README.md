@@ -29,7 +29,7 @@ This API predicts gender using statistical data based on names and returns:
 
 ### 1️⃣ Clone the repo
 ```bash
-git clone https://github.com/your-username/gender-checker-api-app.git
+git clone https://github.com/amanxploit/gender-checker-api-app.git
 cd gender-checker-api-app
 ```
 
